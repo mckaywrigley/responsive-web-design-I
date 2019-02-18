@@ -1,2 +1,14 @@
 Issues To Resolve:
-1. 
+
+Desktop Size:
+Looks great.
+
+Tablet Size:
+1. Great Idea logo to top of page.
+2. Navbar links on own line below the logo.
+3. Image resolution.
+
+Mobile Size:
+1. Great Idea logo to top of page.
+2. Navbar links each on own line.
+3. Image resolution. 
