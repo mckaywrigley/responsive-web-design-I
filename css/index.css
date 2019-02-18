@@ -67,7 +67,7 @@ h1, h2, h3, h4, h5 {
 
 /* Main Container */
 .whole-page {
-	width: 1200px;
+	width: 90%;
 	margin: auto;
 }
 
@@ -227,7 +227,7 @@ header a img {
 }
 
 .aboutOne section {
-    width: 50%;
+    width: 48%;
     margin: 20px 0;
 }
 
