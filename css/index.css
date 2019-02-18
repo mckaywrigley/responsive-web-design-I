@@ -327,12 +327,20 @@ footer {
     }
 }
 
+/* HR */
+
+@media(max-width: 500px) {
+    hr {
+        margin: 0 15px;
+    }
+}
+
 
 /* Service Page */
 
 .services-header-img {
-	display: flex;
-	width: 1200px;
+    display: flex;
+    width: 100%;
 }
 
 .service-box {
@@ -353,7 +361,7 @@ footer {
 	padding: 20px;
 	background: lightgray;
 	margin: 20px 0;
-	width: 570px;
+	width: 48%;
 }
 
 .small-button {
@@ -365,15 +373,19 @@ footer {
 	padding: 10px 20px;
 }
 
-.facts-parent {
+.footer-parent {
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-between;
 	margin-top: 20px;
 }
 
-.facts-item {
-	width: 500px;
+.footer-left {
+	width: 48%;
+}
+
+.footer-right {
+	width: 48%;
 }
 
 ul {
@@ -384,11 +396,5 @@ ul {
 }
 
 .services-info-img {
-	margin-left: 80px;
-}
-
-@media(max-width: 500px) {
-    hr {
-        margin: 0 15px;
-    }
+    width: 100%;
 }
