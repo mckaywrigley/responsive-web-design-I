@@ -74,14 +74,12 @@ h1, h2, h3, h4, h5 {
 @media(max-width: 800px) {
     .whole-page {
         width: 90%;
-        margin: auto;
     }
 }
 
 @media(max-width: 500px) {
     .whole-page {
         width: 100%;
-        margin: auto;
     }
 }
 
@@ -97,12 +95,6 @@ header {
 @media(max-width: 800px) {
     header {
         flex-direction: column-reverse;
-    }
-}
-
-@media(max-width: 500px) {
-    header {
-        justify-content: center;
     }
 }
 
@@ -232,11 +224,11 @@ header a img {
     margin: 20px 0;
 }
 
-@media(max-width: 800px) {
+/* @media(max-width: 800px) {
     .aboutOne section {
         width: 48%;
     }
-}
+} */
 
 @media(max-width: 500px) {
     .aboutOne section {
@@ -261,7 +253,6 @@ header a img {
 
 @media(max-width: 800px) {
     .aboutTwo img {
-        width: 100%;
         height: 140px;
     }
 }
@@ -269,7 +260,6 @@ header a img {
 @media(max-width: 500px) {
     .aboutTwo img {
         margin-top: 20px;
-        width: 100%;
         height: 90px;
     }
 }
@@ -357,7 +347,6 @@ footer {
 
 @media(max-width: 500px) {
     .services-header-img {
-        width: 100%;
         height: 100px;
     }
 }
@@ -404,6 +393,7 @@ footer {
         align-items: center;
         justify-content: center;
         flex-direction: column;
+        text-align: center;
     }
 }
 
@@ -415,12 +405,6 @@ footer {
 	margin-top: 20px;
     padding: 10px 20px;
     cursor: pointer;
-}
-
-@media(max-width: 500px) {
-    .small-button {
-
-    }
 }
 
 .footer-parent {
