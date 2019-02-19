@@ -1,0 +1,14 @@
+Issues To Resolve:
+
+Desktop Size:
+Looks great.
+
+Tablet Size:
+1. Great Idea logo to top of page. FIXED
+2. Navbar links on own line below the logo. FIXED
+3. Image resolution. FIXED
+
+Mobile Size:
+1. Great Idea logo to top of page. FIXED
+2. Navbar links each on own line. FIXED
+3. Image resolution. FIXED
